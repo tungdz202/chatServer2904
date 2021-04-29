@@ -1,0 +1,4 @@
+﻿  chatServer2904.cpp
+C:\Users\Admin\source\repos\chatServer2904\chatServer2904\chatServer2904.cpp(109): warning C4715: 'ClientThread': not all control paths return a value
+chatServer2904.obj : error LNK2019: unresolved external symbol "void __cdecl RemoveClient(unsigned int)" (?RemoveClient@@YAXI@Z) referenced in function "unsigned long __stdcall ClientThread(void *)" (?ClientThread@@YGKPAX@Z)
+C:\Users\Admin\source\repos\chatServer2904\Debug\chatServer2904.exe : fatal error LNK1120: 1 unresolved externals
